@@ -28,7 +28,7 @@ const RightSideBar = () => {
         <h2 className="py-2 text-2xl font-semibold ">Find Us On</h2>
 
         <div className="my-2  border rounded-lg">
-          <a className="block p-4 text-center" href="">
+          <a className="block p-4 text-center " href="">
             <FaFacebook className="inline-block"></FaFacebook> Facebook
           </a>
           <hr />
