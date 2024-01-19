@@ -13,7 +13,7 @@ const RightSideBar = () => {
   return (
     <div>
       <div className="pb-5">
-        <h2 className="py-2 text-2xl font-semibold ">Login With </h2>
+        <h2 className="py-2 text-xl font-semibold ">Login With </h2>
 
         <div className="my-2 p-4 space-y-4 border rounded-lg">
           <button className="btn btn-outline w-full">
@@ -25,7 +25,7 @@ const RightSideBar = () => {
         </div>
       </div>
       <div className="pb-4">
-        <h2 className="py-2 text-2xl font-semibold ">Find Us On</h2>
+        <h2 className="py-2 text-xl font-semibold ">Find Us On</h2>
 
         <div className="my-2  border rounded-lg">
           <a className="block p-4 text-center " href="">
@@ -42,7 +42,7 @@ const RightSideBar = () => {
         </div>
       </div>
       <div className="bg-[#F3F3F3] p-4 rounded-lg my-4">
-        <h2 className="py-2 text-2xl font-semibold ">Q-Zone</h2>
+        <h2 className="py-2 text-xl font-semibold ">Q-Zone</h2>
         <div className="my-2">
           <img src={qzone1} alt="" />
           <img src={qzone2} alt="" />
